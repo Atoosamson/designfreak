@@ -1,0 +1,43 @@
+.{
+    box-sizing: border-box;
+}
+/* style the header */
+header{
+    background-color: #777;
+    padding: 30px  
+}
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color:lightblue;
+}
+.Top section{ 
+    padding: 0;
+    
+    
+    }
+    h1{
+        font-family:cursive; 
+        
+        
+    }
+    .Tophead1{
+        padding: 0;
+        text-align:center;
+    }
+    .Tophead2{
+        padding:0;
+        text-align:center;
+    }
+    .Tophead3{
+    
+        padding:0;       
+        text-align:center;
+
+
+    }
